@@ -1,0 +1,9 @@
+form{
+    border:1px solid black;
+    margin:30px 30px 30px 30px;
+    padding-top: 10px;
+}
+body{
+    text-align:center;
+    background-image: url("BackGround.jpg");
+}
